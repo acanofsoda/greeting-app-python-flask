@@ -6,7 +6,7 @@ A Simple Flask/Python Greeting App
 <br>
 This is a very simple GUI App that receives a name text input from the user and returns a "Hello" greeting.
 <br>
-This App was created for learning purposes - so please feel free to use anything from it that may help you in your Python journey!
+This App was created for learning purposes.
 <br>
 <br>
 Taken from:
